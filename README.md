@@ -10,4 +10,4 @@ Gist About Me:
 - 🤝 Connect with me on <a href='https://www.linkedin.com/in/dejie-zhen>Linkedin!</a>
 - 📫 How to reach me: <a href='mailto:dzhen@bowdoin.edu>Get in Touch with me!</a>
 - 😄 Pronouns: He/Him/His
-- 
+-
