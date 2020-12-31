@@ -1,19 +1,13 @@
-### Hi there 👋
-
-<!--
-**dejiezhen/dejiezhen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, It's Dejie👋
 
 [![HitCount](http://hits.dwyl.com/dejiezhen/dejiezhen.svg)](http://hits.dwyl.com/dejiezhen/dejiezhen)
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Gist About Me:
+- 🏫 Currently a full time student at Bowdoin College
+- 🔭 Aspiring to be a Full Stack Developer 
+- ⚡ I am learning everyday, currently trying to master Javascript and React.js
+- 👯 Always looking to collaborate with a team and become solutions to different problems 
+- 🤝 Connect with me on <a href='https://www.linkedin.com/in/dejie-zhen>Linkedin!</a>
+- 📫 How to reach me: <a href='mailto:dzhen@bowdoin.edu>Get in Touch with me!</a>
+- 😄 Pronouns: He/Him/His
+- 
