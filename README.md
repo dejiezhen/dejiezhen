@@ -3,7 +3,7 @@
 [![HitCount](http://hits.dwyl.com/dejiezhen/dejiezhen.svg)](http://hits.dwyl.com/dejiezhen/dejiezhen)
 
 Gist About Me:
-- 🏫 Currently a full time student at Bowdoin College
+- 🏫 Currently a full time student at Bowdoin College. Studied in South Korea and Denmark
 - 🔭 Aspiring to be a Full Stack Developer 
 - ⚡ I am learning everyday, currently trying to master Javascript and React.js
 - 👯 Always looking to collaborate with a team and become solutions to different problems 
